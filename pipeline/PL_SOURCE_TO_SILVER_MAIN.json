@@ -67,7 +67,7 @@
 							"userProperties": [],
 							"typeProperties": {
 								"pipeline": {
-									"referenceName": "PL_SOURCE_SILVER_INNER",
+									"referenceName": "PL_SOURCE_TO_SILVER_INNER",
 									"type": "PipelineReference"
 								},
 								"waitOnCompletion": true,
