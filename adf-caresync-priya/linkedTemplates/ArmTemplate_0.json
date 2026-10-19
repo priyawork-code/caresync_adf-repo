@@ -422,11 +422,11 @@
 									"type": "Expression"
 								},
 								"merge_keys": {
-									"value": "@coalesce(activity('Read watermark').output.firstRow.merge_keys,'')",
+									"value": "@coalesce(activity('Read Table Details').output.firstRow.merge_keys,'')",
 									"type": "Expression"
 								},
 								"load_type": {
-									"value": "@activity('Read watermark').output.firstRow.load_type",
+									"value": "@activity('Read Table Details').output.firstRow.load_type",
 									"type": "Expression"
 								}
 							}
