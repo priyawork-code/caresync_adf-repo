@@ -1,0 +1,12 @@
+{
+	"name": "adf-caresync-priya",
+	"properties": {
+		"globalParameters": {
+			"email_receipient": {
+				"type": "string",
+				"value": "priya1990work@gmail.com"
+			}
+		}
+	},
+	"location": "eastus"
+}
